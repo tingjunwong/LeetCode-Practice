@@ -50,6 +50,22 @@ public class MoveZeroes {
 
 
 
+
+Python 版本如下：
+
+class Solution:
+    def moveZeroes(self, nums: List[int]) -> None:
+    	k = 0
+    	for e in range(len(nums)):
+    		if (e):
+    			nums[k] = nums[e]
+    			k = k + 1
+    	for d in range(k,len(nums)):
+    		d = 0
+
+
+
+
 ```
 可以看见  用了 两个for循环，   时间复杂度为  O(n), 没有创建新数组，所以空间复杂度为O(1)
 
