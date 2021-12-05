@@ -1,0 +1,16 @@
+{
+    "color scheme": "Packages/User/Color Highlighter/themes/Monokai Extended.tmTheme",
+    "expand_tabs_on_save": true,
+    "font_face": "YaHei Consolas Hybrid",
+    "font_size": 19,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "soda_classic_tabs": true,
+    "tab_size": 4,
+    "enable_tab_scrolling":false,
+    "theme": "Soda Dark 3.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "update_check": false
+}
